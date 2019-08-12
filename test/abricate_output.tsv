@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+sample.fasta	35_length=12127_depth=2.44x	8503	9384	KPC-3	1-882/882	===============	0/0	100.00	100.00	card	AF395881:1-883	card~~~KPC-3~~~AF395881:1-883 KPC-3 is a beta-lactamase found in Klebsiella pneumoniae
+sample.fasta	85_length=1356_depth=5.08x	1	244	AAC(6')-Ib7	1-244/980	====...........	0/0	24.90	100.00	card	Y11946.1:1-981	card~~~AAC(6')-Ib7~~~Y11946.1:1-981 AAC(6')-Ib7 is a plasmid-encoded aminoglycoside acetyltransferase in E. cloacae and C. freundii
